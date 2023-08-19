@@ -1,5 +1,7 @@
-These folders are in your AppData folder OrcaSlicer
+These folders are in your AppData folder OrcaSlicer on Windows
 %AppData%\Roaming\OrcaSlicer\user
+
+For Mac they are located in your Libray Folder within your User Account and then Applicaton Support>OrcaSlicer>user
 
 From there is you don't sign in they will be placed in the "default" folder. If you do sign in you will see another folder that is just numbers and you would place them in there. This folder syncs with the Cloud as well.
 
