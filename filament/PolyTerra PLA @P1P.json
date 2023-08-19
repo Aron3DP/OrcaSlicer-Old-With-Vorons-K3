@@ -1,0 +1,9 @@
+{
+    "filament_settings_id": [
+        "PolyTerra PLA @P1P"
+    ],
+    "from": "User",
+    "inherits": "PolyTerra PLA @BBL P1P",
+    "name": "PolyTerra PLA @P1P",
+    "version": "1.6.0.3"
+}

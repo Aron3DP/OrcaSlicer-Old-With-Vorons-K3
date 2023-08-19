@@ -1,0 +1,21 @@
+{
+    "filament_flow_ratio": [
+        "1"
+    ],
+    "filament_max_volumetric_speed": [
+        "14.5"
+    ],
+    "filament_settings_id": [
+        "PolyLite PLA @V0"
+    ],
+    "from": "User",
+    "hot_plate_temp": [
+        "65"
+    ],
+    "hot_plate_temp_initial_layer": [
+        "65"
+    ],
+    "inherits": "Voron Generic PLA",
+    "name": "PolyLite PLA @V0",
+    "version": "1.5.1.2"
+}

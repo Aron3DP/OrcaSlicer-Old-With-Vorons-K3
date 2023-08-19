@@ -1,0 +1,8 @@
+{
+    "auxiliary_fan": "1",
+    "from": "User",
+    "inherits": "Bambu Lab P1P 0.4 nozzle",
+    "name": "Bambu Lab P1P 0.4 Aux",
+    "printer_settings_id": "Bambu Lab P1P 0.4 Aux",
+    "version": "1.7.0.10"
+}

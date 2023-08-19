@@ -1,0 +1,30 @@
+{
+    "enable_pressure_advance": [
+        "1"
+    ],
+    "filament_flow_ratio": [
+        "0.99"
+    ],
+    "filament_max_volumetric_speed": [
+        "14.5"
+    ],
+    "filament_settings_id": [
+        "Jessie PLA @VT"
+    ],
+    "filament_start_gcode": [
+        "; filament start gcode\nSET_GCODE_OFFSET Z_ADJUST=0.118 MOVE=1\nRESPOND MSG=\"Adjusting Z-Offset to 0.118!\""
+    ],
+    "from": "User",
+    "hot_plate_temp": [
+        "65"
+    ],
+    "hot_plate_temp_initial_layer": [
+        "65"
+    ],
+    "inherits": "Voron Generic PLA",
+    "name": "Jessie PLA @VT",
+    "pressure_advance": [
+        "0.026"
+    ],
+    "version": "1.5.1.2"
+}

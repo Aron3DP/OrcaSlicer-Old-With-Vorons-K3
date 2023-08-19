@@ -1,0 +1,27 @@
+{
+    "filament_settings_id": [
+        "Sparta3D ABS+ @X1C"
+    ],
+    "from": "User",
+    "hot_plate_temp": [
+        "110"
+    ],
+    "hot_plate_temp_initial_layer": [
+        "110"
+    ],
+    "inherits": "Generic ABS",
+    "name": "Sparta3D ABS+ @X1C",
+    "nozzle_temperature": [
+        "250"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "240"
+    ],
+    "textured_plate_temp": [
+        "110"
+    ],
+    "textured_plate_temp_initial_layer": [
+        "110"
+    ],
+    "version": "1.4.0.14"
+}
