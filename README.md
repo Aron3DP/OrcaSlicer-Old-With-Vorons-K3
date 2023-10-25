@@ -1,6 +1,8 @@
 These folders are in your AppData folder OrcaSlicer on Windows
 %AppData%\Roaming\OrcaSlicer\user
 
+The folder name will be some random numbers if you sign in through the Slicer. If you do not it will be in the 'default' folder.
+
 For Mac they are located in your Libray Folder within your User Account and then Applicaton Support>OrcaSlicer>user
 You can press the shortcut Shift + Command + L
 
