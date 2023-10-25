@@ -1,9 +1,0 @@
-{
-    "filament_settings_id": [
-        "PolyLite PLA @P1P"
-    ],
-    "from": "User",
-    "inherits": "PolyLite PLA @BBL P1P",
-    "name": "PolyLite PLA @P1P",
-    "version": "1.6.0.3"
-}
