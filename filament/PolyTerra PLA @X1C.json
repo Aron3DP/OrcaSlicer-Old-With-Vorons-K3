@@ -1,0 +1,10 @@
+{
+    "filament_settings_id": [
+        "PolyTerra PLA @X1C"
+    ],
+    "from": "User",
+    "inherits": "PolyTerra PLA @BBL X1C",
+    "is_custom_defined": "0",
+    "name": "PolyTerra PLA @X1C",
+    "version": "1.6.0.3"
+}

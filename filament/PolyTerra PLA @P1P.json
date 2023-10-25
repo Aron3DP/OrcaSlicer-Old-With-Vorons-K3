@@ -1,0 +1,22 @@
+{
+    "filament_settings_id": [
+        "PolyTerra PLA @P1P"
+    ],
+    "from": "User",
+    "hot_plate_temp": [
+        "60"
+    ],
+    "hot_plate_temp_initial_layer": [
+        "60"
+    ],
+    "inherits": "PolyTerra PLA @BBL P1P",
+    "is_custom_defined": "0",
+    "name": "PolyTerra PLA @P1P",
+    "textured_plate_temp": [
+        "60"
+    ],
+    "textured_plate_temp_initial_layer": [
+        "60"
+    ],
+    "version": "1.6.0.3"
+}
