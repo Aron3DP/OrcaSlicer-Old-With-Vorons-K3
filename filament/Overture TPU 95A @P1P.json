@@ -1,0 +1,43 @@
+{
+    "filament_max_volumetric_speed": [
+        "2.5"
+    ],
+    "filament_retraction_length": [
+        "1"
+    ],
+    "filament_settings_id": [
+        "Overture TPU 95A @P1P"
+    ],
+    "filament_vendor": [
+        "Overture"
+    ],
+    "filament_z_hop": [
+        "0"
+    ],
+    "from": "User",
+    "hot_plate_temp": [
+        "35"
+    ],
+    "hot_plate_temp_initial_layer": [
+        "35"
+    ],
+    "inherits": "Bambu TPU 95A @BBL P1P",
+    "is_custom_defined": "0",
+    "name": "Overture TPU 95A @P1P",
+    "nozzle_temperature": [
+        "240"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "240"
+    ],
+    "slow_down_for_layer_cooling": [
+        "0"
+    ],
+    "textured_plate_temp": [
+        "35"
+    ],
+    "textured_plate_temp_initial_layer": [
+        "35"
+    ],
+    "version": "1.7.0.30"
+}

@@ -1,0 +1,36 @@
+{
+    "enable_pressure_advance": [
+        "1"
+    ],
+    "filament_max_volumetric_speed": [
+        "40"
+    ],
+    "filament_settings_id": [
+        "Cookiecad PLA @SF"
+    ],
+    "filament_vendor": [
+        "Cookiecad"
+    ],
+    "from": "User",
+    "hot_plate_temp": [
+        "65"
+    ],
+    "hot_plate_temp_initial_layer": [
+        "65"
+    ],
+    "inherits": "Voron Generic PLA",
+    "name": "Cookiecad PLA @SF",
+    "nozzle_temperature": [
+        "230"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "230"
+    ],
+    "pressure_advance": [
+        "0.03"
+    ],
+    "slow_down_for_layer_cooling": [
+        "0"
+    ],
+    "version": "1.5.1.2"
+}

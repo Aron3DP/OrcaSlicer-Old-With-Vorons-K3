@@ -1,0 +1,10 @@
+{
+    "filament_settings_id": [
+        "PolyLite PETG @P1P"
+    ],
+    "from": "User",
+    "inherits": "Generic PETG @BBL P1P",
+    "is_custom_defined": "0",
+    "name": "PolyLite PETG @P1P",
+    "version": "1.6.0.3"
+}

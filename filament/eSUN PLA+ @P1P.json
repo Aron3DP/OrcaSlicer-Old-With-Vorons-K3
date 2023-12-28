@@ -1,0 +1,24 @@
+{
+    "enable_pressure_advance": [
+        "1"
+    ],
+    "filament_flow_ratio": [
+        "0.98"
+    ],
+    "filament_max_volumetric_speed": [
+        "21"
+    ],
+    "filament_settings_id": [
+        "eSUN PLA+ @P1P"
+    ],
+    "filament_vendor": [
+        "eSun"
+    ],
+    "from": "User",
+    "inherits": "PolyLite PLA @BBL P1P",
+    "name": "eSUN PLA+ @P1P",
+    "pressure_advance": [
+        "0.01"
+    ],
+    "version": "1.6.0.3"
+}
