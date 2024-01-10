@@ -1,7 +1,7 @@
 {
     "bed_custom_texture": "C:\\\\OrcaSlicer\\\\voron_logofingerprints.png",
     "from": "User",
-    "inherits": "Voron Trident 300 0.4 nozzle",
+	"inherits": "Voron 0.1 0.4 nozzle",
     "machine_max_acceleration_e": [
         "15000",
         "5000"
