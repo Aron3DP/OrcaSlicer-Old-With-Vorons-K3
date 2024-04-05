@@ -1,0 +1,27 @@
+{
+    "enable_pressure_advance": [
+        "1"
+    ],
+    "filament_max_volumetric_speed": [
+        "21"
+    ],
+    "filament_settings_id": [
+        "OVV3D Rainbow PLA @P1P"
+    ],
+    "from": "User",
+    "hot_plate_temp": [
+        "60"
+    ],
+    "hot_plate_temp_initial_layer": [
+        "60"
+    ],
+    "inherits": "PolyLite PLA @BBL P1P",
+    "name": "OVV3D Rainbow PLA @P1P",
+    "textured_plate_temp": [
+        "60"
+    ],
+    "textured_plate_temp_initial_layer": [
+        "60"
+    ],
+    "version": "1.6.0.3"
+}

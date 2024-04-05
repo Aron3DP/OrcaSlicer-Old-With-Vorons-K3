@@ -1,0 +1,13 @@
+{
+    "filament_max_volumetric_speed": [
+        "21"
+    ],
+    "filament_settings_id": [
+        "PolyLite PLA @P1P"
+    ],
+    "from": "User",
+    "inherits": "PolyLite PLA @BBL P1P",
+    "is_custom_defined": "0",
+    "name": "PolyLite PLA @P1P",
+    "version": "1.6.0.3"
+}
