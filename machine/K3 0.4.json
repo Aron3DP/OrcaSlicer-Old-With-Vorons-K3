@@ -1,0 +1,73 @@
+{
+    "bed_custom_model": "Y:\\\\3D Prints & Laser\\\\Printer Parts\\\\Printers\\\\Micron-main\\\\Firmware\\\\Slicer\\\\BedModel\\\\micron-bed-model-simple-180.stl",
+    "bed_custom_texture": "C:\\\\OrcaSlicer\\\\voron_logofingerprints.png",
+    "from": "User",
+    "inherits": "Voron 0.1 0.4 nozzle",
+    "machine_max_acceleration_e": [
+        "30000",
+        "5000"
+    ],
+    "machine_max_acceleration_extruding": [
+        "30000",
+        "20000"
+    ],
+    "machine_max_acceleration_retracting": [
+        "30000",
+        "5000"
+    ],
+    "machine_max_acceleration_x": [
+        "30000",
+        "20000"
+    ],
+    "machine_max_acceleration_y": [
+        "30000",
+        "20000"
+    ],
+    "machine_max_acceleration_z": [
+        "250",
+        "200"
+    ],
+    "machine_max_jerk_x": [
+        "25",
+        "9"
+    ],
+    "machine_max_jerk_y": [
+        "25",
+        "9"
+    ],
+    "machine_max_speed_e": [
+        "120",
+        "25"
+    ],
+    "machine_max_speed_x": [
+        "750",
+        "200"
+    ],
+    "machine_max_speed_y": [
+        "750",
+        "200"
+    ],
+    "machine_max_speed_z": [
+        "25",
+        "12"
+    ],
+    "machine_start_gcode": "M190 S0\nM109 S0\nPRINT_START EXTRUDER=[nozzle_temperature_initial_layer] BED=[bed_temperature_initial_layer_single] CHAMBER=[chamber_temperature]",
+    "name": "K3 0.4",
+    "print_host": "http://10.10.2.57",
+    "printable_area": [
+        "0x0",
+        "180x0",
+        "180x180",
+        "0x180"
+    ],
+    "printable_height": "160",
+    "printer_settings_id": "K3 0.4",
+    "retraction_length": [
+        "0.5"
+    ],
+    "use_firmware_retraction": "1",
+    "version": "1.5.1.2",
+    "wipe": [
+        "0"
+    ]
+}
