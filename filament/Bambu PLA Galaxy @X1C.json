@@ -1,0 +1,16 @@
+{
+    "complete_print_exhaust_fan_speed": [
+        "0"
+    ],
+    "enable_pressure_advance": [
+        "1"
+    ],
+    "filament_settings_id": [
+        "Bambu PLA Galaxy @X1C"
+    ],
+    "from": "User",
+    "inherits": "Bambu PLA Galaxy @BBL X1C",
+    "is_custom_defined": "0",
+    "name": "Bambu PLA Galaxy @X1C",
+    "version": "1.9.0.11"
+}

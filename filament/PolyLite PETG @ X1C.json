@@ -1,0 +1,19 @@
+{
+    "enable_pressure_advance": [
+        "1"
+    ],
+    "filament_flow_ratio": [
+        "0.93"
+    ],
+    "filament_settings_id": [
+        "PolyLite PETG @ X1C"
+    ],
+    "filament_vendor": [
+        "Polymaker"
+    ],
+    "from": "User",
+    "inherits": "Bambu PETG Basic @BBL X1C",
+    "is_custom_defined": "0",
+    "name": "PolyLite PETG @ X1C",
+    "version": "1.9.0.14"
+}

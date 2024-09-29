@@ -1,0 +1,57 @@
+{
+    "complete_print_exhaust_fan_speed": [
+        "0"
+    ],
+    "enable_pressure_advance": [
+        "1"
+    ],
+    "fan_cooling_layer_time": [
+        "15"
+    ],
+    "fan_max_speed": [
+        "60"
+    ],
+    "fan_min_speed": [
+        "60"
+    ],
+    "filament_flow_ratio": [
+        "0.92"
+    ],
+    "filament_max_volumetric_speed": [
+        "22"
+    ],
+    "filament_settings_id": [
+        "Sunlu ABS @X1C"
+    ],
+    "filament_vendor": [
+        "Sunlu"
+    ],
+    "from": "User",
+    "hot_plate_temp": [
+        "110"
+    ],
+    "hot_plate_temp_initial_layer": [
+        "110"
+    ],
+    "inherits": "Generic ABS",
+    "name": "Sunlu ABS @X1C",
+    "nozzle_temperature": [
+        "260"
+    ],
+    "overhang_fan_speed": [
+        "60"
+    ],
+    "slow_down_min_speed": [
+        "10"
+    ],
+    "temperature_vitrification": [
+        "110"
+    ],
+    "textured_plate_temp": [
+        "110"
+    ],
+    "textured_plate_temp_initial_layer": [
+        "110"
+    ],
+    "version": "1.3.0.13"
+}

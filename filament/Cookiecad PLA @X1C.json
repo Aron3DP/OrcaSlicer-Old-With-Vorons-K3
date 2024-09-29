@@ -1,0 +1,19 @@
+{
+    "complete_print_exhaust_fan_speed": [
+        "0"
+    ],
+    "enable_pressure_advance": [
+        "1"
+    ],
+    "filament_max_volumetric_speed": [
+        "21"
+    ],
+    "filament_settings_id": [
+        "Cookiecad PLA @X1C"
+    ],
+    "from": "User",
+    "inherits": "PolyLite PLA @BBL X1C",
+    "is_custom_defined": "0",
+    "name": "Cookiecad PLA @X1C",
+    "version": "1.6.0.3"
+}

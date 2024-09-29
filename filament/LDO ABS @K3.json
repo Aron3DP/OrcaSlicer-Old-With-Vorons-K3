@@ -1,0 +1,54 @@
+{
+    "chamber_temperature": [
+        "40"
+    ],
+    "close_fan_the_first_x_layers": [
+        "1"
+    ],
+    "enable_pressure_advance": [
+        "1"
+    ],
+    "fan_cooling_layer_time": [
+        "15"
+    ],
+    "fan_max_speed": [
+        "80"
+    ],
+    "fan_min_speed": [
+        "80"
+    ],
+    "filament_flow_ratio": [
+        "0.95"
+    ],
+    "filament_max_volumetric_speed": [
+        "40"
+    ],
+    "filament_settings_id": [
+        "LDO ABS @K3"
+    ],
+    "filament_start_gcode": [
+        "; Filament gcode\n\n"
+    ],
+    "filament_vendor": [
+        "LDO"
+    ],
+    "from": "User",
+    "hot_plate_temp": [
+        "110"
+    ],
+    "hot_plate_temp_initial_layer": [
+        "110"
+    ],
+    "inherits": "Voron Generic ABS",
+    "name": "LDO ABS @K3",
+    "nozzle_temperature": [
+        "285"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "285"
+    ],
+    "pressure_advance": [
+        "0.018"
+    ],
+    "version": "1.5.1.2"
+}
