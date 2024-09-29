@@ -1,0 +1,17 @@
+{
+    "from": "User",
+    "inherits": "0.20mm Standard @BBL X1C",
+    "initial_layer_line_width": "125%",
+    "inner_wall_line_width": "115%",
+    "internal_solid_infill_line_width": "140%",
+    "line_width": "115%",
+    "name": "0.20mm Normal @X1C",
+    "outer_wall_line_width": "115%",
+    "print_settings_id": "0.20mm Normal @X1C",
+    "sparse_infill_density": "10%",
+    "sparse_infill_line_width": "160%",
+    "support_line_width": "115%",
+    "top_shell_layers": "4",
+    "top_surface_line_width": "100%",
+    "version": "1.3.0.13"
+}
